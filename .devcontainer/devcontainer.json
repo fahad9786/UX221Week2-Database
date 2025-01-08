@@ -10,7 +10,8 @@
         "vscode": {
             "extensions": [
                 "streetsidesoftware.code-spell-checker",
-                "dbaeumer.vscode-eslint"
+                "dbaeumer.vscode-eslint",
+                 "DavidKaiser.kaiser-project-zip"
             ]
         }
     }
